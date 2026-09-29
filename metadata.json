@@ -1,0 +1,6 @@
+{
+  "name": "NEET Prep",
+  "description": "Comprehensive NEET exam preparation platform with 30k+ PYQ & Guess questions, daily mock tests, NCERT line-by-line interactive lessons, personalized weakness-based study planner, doubt forum, and offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
